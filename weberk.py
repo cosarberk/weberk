@@ -46,8 +46,8 @@ o="https://developer.android.com/distribute/console/"
 p="https://apps.admob.com"
 r="https://www.google.com/adsense/start/#"
 s="https://www.codingforentrepreneurs.com/"
-t="localhost/phpmyadmin"
-u="127.0.0.1"
+t="http://localhost/phpmyadmin/index.php"
+u="http://127.0.0.1"
 
 
 webcode = input("Please Write Websites code:")
