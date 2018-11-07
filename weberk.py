@@ -20,9 +20,9 @@ print """
  5 -Google Translate   15 -G.Play Console
  6 -Twitter            16 -G.Admob  
  7 -Instagram          17 -G.Adsence
- 8 -Youtube            18 -Alastry(Hosting)
- 9 -Unsplash 
- 10 -Codepen 
+ 8 -Youtube            18 -Codingforentrepreneurs
+ 9 -Unsplash           19 -Phpmyadmin
+ 10 -Codepen           20 -localhost (127.0.0.1)
 
 #################################################
 
@@ -45,7 +45,10 @@ n="https://www.kali.org/"
 o="https://developer.android.com/distribute/console/"
 p="https://apps.admob.com"
 r="https://www.google.com/adsense/start/#"
-s="https://www.alastyr.com/"
+s="https://www.codingforentrepreneurs.com/"
+t="localhost/phpmyadmin"
+u="127.0.0.1"
+
 
 webcode = input("Please Write Websites code:")
 
@@ -64,10 +67,12 @@ if webcode==11: webbrowser.open(k,new=2);
 if webcode==12: webbrowser.open(l,new=2);
 if webcode==13: webbrowser.open(m,new=2);
 if webcode==14: webbrowser.open(n,new=2);
-if webcode==16: webbrowser.open(o,new=2);
+if webcode==15: webbrowser.open(o,new=2);
 if webcode==16: webbrowser.open(p,new=2);
 if webcode==17: webbrowser.open(r,new=2);
 if webcode==18: webbrowser.open(s,new=2);
+if webcode==19: webbrowser.open(t,new=2);
+if webcode==20: webbrowser.open(u,new=2);
 
 
 
