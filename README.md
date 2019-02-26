@@ -1,7 +1,8 @@
 # weberk
 ## fast open the websites
 
-
+**www.neuroneyes.com**</br>
+**my website command :** Bdata -o -i=5
 
 **use:** "i = website code => i press enter" </br>
 
